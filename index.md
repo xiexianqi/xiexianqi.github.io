@@ -4,7 +4,6 @@ avatar: yes
 ---
 
 
-balabalabala
 
 ![](slides/images/yhy.jpg)
 
